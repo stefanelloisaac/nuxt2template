@@ -1,4 +1,4 @@
-# meu-nuxt
+# nuxt2 app template
 
 ## Build Setup
 
